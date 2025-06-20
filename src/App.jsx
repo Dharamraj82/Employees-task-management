@@ -6,8 +6,8 @@ const App = () => {
   return (
 
     <>
-    {/* <LoginVeify/> */}
-    <Team/>
+ <LoginVeify/> 
+{/*     <Team/> */}
     </>
   )
 }
